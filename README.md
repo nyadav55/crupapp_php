@@ -8,4 +8,4 @@ U = Update
 D = Delete
 
 Software reqired - 
-Server - Xampp 3.3.0, Database - HeidiSQL or PHPmyadmin, IDE - Vscode/Sublime/Netbeans/Notepad++
+Server - Xampp 3.3.0, Database - HeidiSQL(mariadb) or PHPmyadmin(mysql), IDE - Vscode/Sublime/Netbeans/Notepad++
