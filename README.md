@@ -7,5 +7,5 @@ R = Read
 U = Update
 D = Delete
 
-Software reqired - 
+Software prerequested - 
 Server - Xampp 3.3.0, Database - HeidiSQL(mariadb) or PHPmyadmin(mysql), IDE - Vscode/Sublime/Netbeans/Notepad++
